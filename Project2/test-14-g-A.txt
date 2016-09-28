@@ -1,0 +1,8 @@
+TL
+0 E BUY A $10 #10
+0 E SELL A $4 #10
+0 E BUY A $10 #10
+0 E SELL A $3 #10
+1 E BUY A $9 #10
+50 E SELL A $3 #10
+100 E BUY A $9 #10

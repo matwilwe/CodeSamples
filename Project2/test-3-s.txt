@@ -1,0 +1,12 @@
+TL
+0 PlanetExpress SELL AMD $127 #12
+6 BluthCorp BUY AMD $300 #1
+6 BluthCorp SELL ANC $500 #22
+7 PlanetExpress SELL ANC $1200 #14
+12 Matt BUY AMD $1200 #50
+13 Matt BUY ANC $1000 #12
+14 Humza SELL ANC $900 #11
+18 David BUY GE $16 #77
+19 Ryan SELL GE $500 #80
+20 PlanetExpress SELL GE $220 #12
+30 BluthCorp BUY GE $500 #15

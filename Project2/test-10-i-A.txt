@@ -1,0 +1,12 @@
+TL
+0 Matt SELL A $10 #15
+0 Brian SELL A $12 #10
+0 Humza SELL A $15 #12
+1 Boris BUY A $20 #17
+1 Ryan SELL A $10 #2
+1 Boris BUY A $20 #5
+1 Ryan SELL A $10 #1
+1 Ryan SELL A $12 #3
+2 Ryan SELL A $12 #4
+2 David BUY A $12 #6
+3 David BUY A $13 #10

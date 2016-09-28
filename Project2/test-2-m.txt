@@ -1,0 +1,26 @@
+TL
+0 PlanetExpress SELL AMD $127 #12
+0 PlanetExpress BUY AMD $126 #12
+0 PlanetExpress BUY AMD $127 #12
+0 PlanetExpress SELL AMD $127 #12
+0 PlanetExpress SELL AMD $126 #12
+0 Mariam BUY AMD $130 #13
+0 Matt BUY AMD $12 #12
+0 Humza SELL AMD $11 #11
+0 Boris SELL AMD $10 #12
+0 Ryan BUY AMD $40 #10
+1 Boris SELL AMD $12 #14
+1 Humza BUY AMD $13 #12
+1 Matt BUY AMD $15 #12
+1 Boris SELL AMD $17 #1
+1 Mariam SELL AMD $42 #9
+1 Ryan BUY AMD $12 #6
+1 David BUY AMD $70 #14
+1 Humza SELL AMD $25 #16
+1 Emily SELL AMD $14 #7
+1 Matt SELL AMD $12 #11
+1 Mariam BUY AMD $26 #24
+1 Humza SELL AMD $21 #12
+2 Matt BUY AMD $28 #30
+2 Matt BUY AMD $12 #12
+2 Matt BUY AMD $12 #12

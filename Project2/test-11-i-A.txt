@@ -1,0 +1,16 @@
+TL
+0 z SELL A $100 #12
+0 x BUY A $100 #6
+0 y SELL A $90 #6
+0 x SELL A $89 #4
+0 x BUY A $100 #6
+0 x BUY A $110 #6
+0 y SELL A $120 #6
+1 z BUY A $110 #12
+1 x BUY A $111 #12
+1 y SELL A $112 #14
+1 z BUY A $115 #12
+1 z SELL A $100 #12
+1 z SELL A $99 #12
+1 x BUY A $115 #14
+1 x BUY A $116 #14

@@ -1,0 +1,3 @@
+TL
+0 A BUY AMD $10 #10
+1 A SELL AMD $8 #10

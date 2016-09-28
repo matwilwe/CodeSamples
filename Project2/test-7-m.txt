@@ -1,0 +1,8 @@
+TL
+0 client1 BUY TEST $300 #10
+1 client1 SELL TEST $200 #10
+2 client1 SELL TEST $200 #10
+3 client1 BUY TEST $300 #10
+4 client1 SELL NO $200 #10
+5 client2 BUY NO2 $200 #15
+5 client1 BUY NO $300 #12 
